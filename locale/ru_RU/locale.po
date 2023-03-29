@@ -1,0 +1,58 @@
+msgid "plugins.pubIds.udc.displayName"
+msgstr "Модуль «УДК»"
+
+msgid "plugins.pubIds.udc.description"
+msgstr "Включает присвоение УДК статьям в OJS."
+
+msgid "plugins.pubIds.udc.readerDisplayName"
+msgstr "УДК"
+
+msgid "plugins.pubIds.udc.manager.settings.description"
+msgstr "Пожалуйста, настройте модуль «УДК», чтобы иметь возможность использовать УДК в OJS и управлять ими:"
+
+
+msgid "plugins.pubIds.udc.editor.udc"
+msgstr "УДК"
+
+msgid "plugins.pubIds.udc.editor.udc.description"
+msgstr "Введите УДК статьи."
+
+msgid "plugins.pubIds.udc.editor.udc.assignUdc"
+msgstr "Назначить"
+
+msgid "plugins.pubIds.udc.editor.assigned"
+msgstr "УДК присвоен {$pubObjectType}."
+
+msgid "plugins.pubIds.udc.editor.udcCustomIdentifierNotUnique"
+msgstr "Заданный УДК уже используется для другого опубликованного элемента. Пожалуйста, введите уникальный УДК для каждого элемента."
+
+msgid "plugins.pubIds.udc.editor.udcCustomIdentifierDontMatchPreg"
+msgstr "Don't match preg"
+
+msgid "plugins.pubIds.udc.editor.clearObjectsUdc"
+msgstr "Удалить"
+
+msgid "plugins.pubIds.udc.editor.clearObjectsUdc.confirm"
+msgstr "Вы уверены, что хотите удалить существующий УДК?"
+
+msgid "plugins.pubIds.udc.editor.assignUdc"
+msgstr "Присвоить УДК {$pubId} {$pubObjectType}"
+
+msgid "plugins.pubIds.udc.editor.assignUdc.pattern"
+msgstr "УДК {$pubId} не может быть присвоен, так как он содержит не замененный шаблон."
+
+msgid "plugins.pubIds.udc.editor.assignUdc.assigned"
+msgstr "УДК {$pubId} был присвоен."
+
+msgid "plugins.pubIds.udc.editor.missingPrefix"
+msgstr "УДК должен начинаться с {$udcPrefix}."
+
+msgid "plugins.pubIds.udc.editor.preview.publication"
+msgstr "UDC для этой публикации будет {$udc}."
+
+msgid "plugins.pubIds.udc.editor.preview.publication.none"
+msgstr "УДК не был присвоен этой публикации."
+
+
+msgid "plugins.pubIds.udc.manager.settings.udcAssignJournalWide"
+msgstr "Присвоить УДК"

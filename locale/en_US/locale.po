@@ -1,0 +1,67 @@
+msgid "plugins.pubIds.udc.displayName"
+msgstr "UDC"
+
+msgid "plugins.pubIds.udc.description"
+msgstr "This plugin enables the assignment of UDC to articles in OJS."
+
+msgid "plugins.pubIds.udc.readerDisplayName"
+msgstr "UDC"
+
+msgid "plugins.pubIds.udc.editor.udc.description"
+msgstr "Enter UDC of the article"
+
+msgid "plugins.pubIds.udc.manager.settings.description"
+msgstr "Please configure the UDC plugin to be able to manage and use UDCs in OJS:"
+
+msgid "plugins.pubIds.udc.manager.settings.udcReassign"
+msgstr "Reassign UDCs"
+
+msgid "plugins.pubIds.udc.manager.settings.udcAssignJournalWide"
+msgstr "Assign UDCs"
+
+msgid "plugins.pubIds.udc.editor.udc"
+msgstr "UDC"
+
+msgid "plugins.pubIds.udc.editor.patternNotResolved"
+msgstr "The UDC cannot be assigned because it contains an unresolved pattern."
+
+
+msgid "plugins.pubIds.udc.editor.assigned"
+msgstr "The UDC is assigned to this {$pubObjectType}."
+
+msgid "plugins.pubIds.udc.editor.udcCustomIdentifierNotUnique"
+msgstr "The given UDC is already in use for another published item. Please enter a unique UDC for each item."
+
+msgid "plugins.pubIds.udc.editor.udcCustomIdentifierDontMatchPreg"
+msgstr "Don't match preg"
+
+msgid "plugins.pubIds.udc.editor.clearObjectsUdc"
+msgstr "Clear"
+
+msgid "plugins.pubIds.udc.editor.clearObjectsUdc.confirm"
+msgstr "Are you sure you wish to delete the existing UDC?"
+
+msgid "plugins.pubIds.udc.editor.clearIssueObjectsUdc"
+msgstr "Clear Issue Objects UDCs"
+
+msgid "plugins.pubIds.udc.editor.clearIssueObjectsUdc.confirm"
+msgstr "Are you sure you wish to delete the existing issue objects UDCs?"
+
+msgid "plugins.pubIds.udc.editor.clearIssueObjectsUdc.description"
+msgstr "Use the following option to clear UDCs of all objects (articles and galleys) currently scheduled for this issue."
+
+msgid "plugins.pubIds.udc.editor.assignUdc"
+msgstr "Assign the UDC {$pubId} to this {$pubObjectType}"
+
+
+msgid "plugins.pubIds.udc.editor.assignUdc.pattern"
+msgstr "The UDC {$pubId} cannot be assigned because it contains an unresolved pattern."
+
+msgid "plugins.pubIds.udc.editor.assignUdc.assigned"
+msgstr "The UDC {$pubId} has been assigned."
+
+msgid "plugins.pubIds.udc.editor.preview.publication"
+msgstr "The UDC for this publication will be {$udc}."
+
+msgid "plugins.pubIds.udc.editor.preview.publication.none"
+msgstr "A UDC has not been assigned to this publication."
