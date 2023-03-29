@@ -27,7 +27,7 @@ class UDCPubIdPlugin extends PubIdPlugin {
 			HookRegistry::register('CitationStyleLanguage::citation', array($this, 'getCitationData'));
 			HookRegistry::register('Publication::getProperties::summaryProperties', array($this, 'modifyObjectProperties'));
 			HookRegistry::register('Publication::getProperties::fullProperties', array($this, 'modifyObjectProperties'));
-			HookRegistry::register('Publication::validate', array($this, 'validatePublicationUdc'));
+			// HookRegistry::register('Publication::validate', array($this, 'validatePublicationUdc'));
 			HookRegistry::register('Publication::getProperties::values', array($this, 'modifyObjectPropertyValues'));
 			HookRegistry::register('Form::config::before', array($this, 'addPublicationFormFields'));
 			HookRegistry::register('Form::config::before', array($this, 'addPublishFormNotice'));
